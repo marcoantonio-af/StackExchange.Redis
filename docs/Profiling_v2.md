@@ -1,7 +1,7 @@
 ﻿Profiling
 ===
 
-StackExchange.Redis exposes a handful of methods and types to enable performance profiling.  Due to its asynchronous and multiplexing
+StackExchange.Redis exposes a handful of methods and types to enable performance profiling.  Due to its asynchronous and multiplexing 
 behavior profiling is a somewhat complicated topic.
 
 Interfaces
